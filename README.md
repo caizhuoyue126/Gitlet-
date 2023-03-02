@@ -7,18 +7,6 @@
 * final关键词表示赋值一次之后就不能改变，对于一些需要改动的map就不能用final关键词
 * 不需要给外界使用的函数就可以设置为private
 
-代码放github 简历附上自己id或直接给项目链接
-
-工业界git的实现，深入了解原理（git的重点优势是协同开发、不是本地保存）
-
-提merge request
-
-如果a和b文件冲突怎么办
-
-大厂测试实习可以放在work experience里面。
-
-project里面可以放你的java git; 预约管理; 打卡程序。具体顺序根据你实习岗位相关性。
-
 ### 使用方式：
 
 首先`cd gitlet`,`javac *.java`,然后`cd ..`回到proj2的文件夹
