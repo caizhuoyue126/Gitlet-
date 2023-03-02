@@ -345,4 +345,4 @@ the given and current branches. In this case, replace the contents of the confli
 
 **6.在`HEAD`中没有修改，在`other`中被删除了**，remove这个文件（同时untract）
 
-**7.在`other`中没有修改，在`HEAD`中被删除了，**不用改，remain absent
+**7.在`other`中没有修改，在`HEAD`中被删除了**，不用改，remain absent
